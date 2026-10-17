@@ -1,0 +1,65 @@
+[
+    {
+        "id": 101,
+        "title": "أساسيات البرمجة بلغة بايثون",
+        "author": "كاتب ممتاز",
+        "category": "برمجة",
+        "available_copies": 3
+    },
+    {
+        "id": 101,
+        "title": "Python Programming Basics",
+        "author": "John Doe",
+        "category": "Programming",
+        "available_copies": 3
+    },
+    {
+        "id": 101,
+        "title": "Python Programming Basics",
+        "author": "John Doe",
+        "category": "Programming",
+        "available_copies": 3
+    },
+    {
+        "id": 101,
+        "title": "Python Programming Basics",
+        "author": "John Doe",
+        "category": "Programming",
+        "available_copies": 3
+    },
+    {
+        "id": 101,
+        "title": "Python Programming Basics",
+        "author": "John Doe",
+        "category": "Programming",
+        "available_copies": 3
+    },
+    {
+        "id": 101,
+        "title": "Python Programming Basics",
+        "author": "John Doe",
+        "category": "Programming",
+        "available_copies": 3
+    },
+    {
+        "id": 101,
+        "title": "Python Programming Basics",
+        "author": "John Doe",
+        "category": "Programming",
+        "available_copies": 3
+    },
+    {
+        "id": 101,
+        "title": "Python Programming Basics",
+        "author": "John Doe",
+        "category": "Programming",
+        "available_copies": 3
+    },
+    {
+        "id": 101,
+        "title": "Python Programming Basics",
+        "author": "John Doe",
+        "category": "Programming",
+        "available_copies": 3
+    }
+]
